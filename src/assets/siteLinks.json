@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Blog",
+    "name": "blog",
+    "link": "https://blog.riyuanliu.com"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Resume",
+    "link": "https://riyuanliu.github.io/resume/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "Music",
+    "link": "https://music.riyuanliu.com"
+  },
+  {
+    "icon": "Compass",
+    "name": "Search Bar",
+    "link": "https://nav.riyuanliu.com"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Site Status",
+    "link": "https://status.riyuanliu.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "Check out my github",
+    "url": "https://github.com/riyuanliu"
+  },
+  {
+    "name": "Linkedin",
+    "icon": "/images/icon/linkedin.png",
+    "tip": "Check out my Linkedin",
+    "url": "https://www.linkedin.com/in/riyuan-liu-9896981b1/"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "Send a Email ~",
+    "url": "mailto:riyuanliu31@gmail.com"
+  },
+  {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "hmmm ~, this is X right",
+    "url": "https://twitter.com/riyuan_liu76416"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "Why do you have this",
+    "url": ""
+  }
+]
