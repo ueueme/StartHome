@@ -3,13 +3,13 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/BennettMa23"
+    "url": "https://github.com/imsyy"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/###"
+    "url": "https://space.bilibili.com/"
   },
   {
     "name": "QQ",
@@ -21,18 +21,18 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "guaziaiyumi@163.com"
+    "url": "mailto:one@imsyy.top"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "推特推不动 ~",
-    "url": "https://starthome.pages.dev"
+    "url": "https://twitter.com/iimmsyy"
   },
   {
     "name": "WX",
     "icon": "/images/icon/wx.png",
     "tip": "公众号：易悦网络",
-    "url": "https://uenovel.netlify.app/user/feedback"
+    "url": "https://t.me/bottom_user"
   }
 ]
