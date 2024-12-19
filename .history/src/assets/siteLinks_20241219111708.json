@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.riyuanliu.com"
+  },
+  {
+    "icon": "Book",
+    "name": "易悦小说",
+    "link": "https://uenovel.netlify.app"
+  },
+  {
+    "icon": "ShoppingBag",
+    "name": "商城系统",
+    "link": "https://uccmall.netlify.app"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "Music",
+    "link": "https://music.riyuanliu.com"
+  },
+  {
+    "icon": "Github",
+    "name": "Music",
+    "link": "https://music.riyuanliu.com"
+  },
+  {
+    "icon": "Compass",
+    "name": "Search Bar",
+    "link": "https://nav.riyuanliu.com"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Site Status",
+    "link": "https://status.riyuanliu.com"
+  },
+  {
+    "icon": "Heartbeat",
+    "name": "免费应用",
+    "link": "https://www.123pan.com/s/csSaTd-6Yxw3.html"
+  }
+]
