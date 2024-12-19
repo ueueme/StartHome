@@ -1,43 +1,33 @@
-# Personal Website
-This project is folk and modifiy from imsyy.
+# 个人网站
 
-Welcome to my personal website! This platform is a reflection of my diverse interests and projects. Below, you'll find an overview of the key features:
+以下是对主要功能的概述：
 
-## Music API
+## 音乐API
 
-Discover my musical preferences through the integrated Music API. Explore playlists, favorite tracks, and receive personalized recommendations based on my listening history. Immerse yourself in a curated musical experience right here on the website.
+通过集成的音乐API，您可以探索我的音乐偏好。浏览播放列表、喜爱的曲目，并根据我的收听历史获得个性化推荐。沉浸在由我精心挑选的音乐体验中，尽在本网站。
 
-## Weather Updates
+## 天气更新
 
-Stay informed about current weather conditions with the Weather section. Access real-time updates, forecasts, and detailed weather information for your location. Whether planning your day or staying prepared for the week, the weather section has you covered.
+在天气板块中，您可以了解最新的天气情况。获取实时更新、预报以及您所在位置的详细天气信息。无论是规划一天的日程还是准备迎接一周的挑战，天气板块都能为您提供所需信息。
 
-## Subdomains
+## 子域名
 
-Navigate through different subdomains, each dedicated to specific aspects of my life and projects. Each subdomain offers a unique experience and insights into various facets of my personal and professional journey.
 
-- [Blog](#) - Read my latest blog posts, thoughts, and reflections.
-- [Portfolio](#) - Explore my portfolio showcasing projects, achievements, and skills.
-- [Photos](#) - Browse through a collection of my favorite photos and memories.
+- [博客](#) - 阅读我的最新博文、想法与感悟。
 
-## GitHub Integration
+## GitHub集成
 
-Stay updated on my coding endeavors with the GitHub integration. The website displays repositories, contributions, and highlights from my GitHub profile. Explore the code behind my projects and discover the technologies that fuel my passion.
+通过GitHub集成，您可以随时了解我的编程进展。网站会显示来自我的GitHub个人资料的仓库、贡献记录和个人亮点。探索我项目的背后代码，发现驱动我热情的技术。
 
-## Connect with Me
+## 与我联系
 
-Feel free to connect with me through the contact form available on the website. Whether you want to share feedback, collaborate on a project, or simply say hello, I'm always open to connecting with like-minded individuals.
+欢迎您通过网站上的联系表格与我取得联系。无论您想分享反馈、合作项目或只是打个招呼，我都乐于与志同道合的人建立联系。
 
-## Technologies Used
+## 使用的技术
 
-This website leverages modern web technologies and frameworks to deliver a seamless experience. Key technologies include:
+本网站采用现代网络技术和框架，以提供流畅的用户体验。关键技术包括：
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- APIs: Music API, Weather API
-- Hosting: [Your Hosting Service]
-
-## License
-
-This website is licensed under the [MIT License](LICENSE), allowing you to use and modify it for your personal projects.
-
-Thank you for visiting my personal website! I hope you enjoy exploring the content and learning more about me and my diverse interests.
+- 前端：HTML, CSS, JavaScript
+- 后端：Node.js
+- API：音乐API, 天气API
+- 托管：[您的托管服务]
