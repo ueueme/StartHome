@@ -2,17 +2,18 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.riyuanliu.com"
+    "link": "https://yiyueblog.netlify.app/"
   },
   {
     "icon": "Book",
     "name": "易悦小说",
-    "link": "https://uenovel.netlify.app"
+    "link": "http://61.177.54.154:2233"
   },
+  
   {
     "icon": "Laptop",
     "name": "OA工作流",
-    "link": ""
+    "link": "https://ueoa.netlify.app"
   },
   {
     "icon": "ShoppingBag",  
@@ -39,5 +40,20 @@
     "icon": "Heartbeat",
     "name": "免费应用",
     "link": "https://www.123pan.com/s/csSaTd-6Yxw3.html"
+  },
+  {
+    "icon": "Blogger",
+    "name": "博客园",
+    "link": "https://www.cnblogs.com/ueme"
+  },
+  {
+    "icon": "Search",
+    "name": "易热搜",
+    "link": "https://mp.weixin.qq.com/s/2tgwM9SJR57ooP-jIe8PVQ"
+  },
+  {
+    "icon": "GithubAlt",
+    "name": "GitHub Pages",
+    "link": "https://github.com/ueueme?tab=repositories"
   }
 ]
