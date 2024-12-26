@@ -20,14 +20,14 @@
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "guaziaiyumi@163.com"
+    "tip": "合作 Email ~",
+    "url": "mailto:guaziaiyumi@163.com"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "推特推不动 ~",
-    "url": "https://starthome.pages.dev"
+    "url": "https://yiyueblog.netlify.app"
   },
   {
     "name": "WX",
