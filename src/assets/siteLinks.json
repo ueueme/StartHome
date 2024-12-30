@@ -55,5 +55,10 @@
     "icon": "GithubAlt",
     "name": "GitHub Pages",
     "link": "https://github.com/ueueme?tab=repositories"
+  },
+  {
+    "icon": "Laptop",
+    "name": "优佳后台",
+    "link": "https://youjiaue.netlify.app"
   }
 ]
